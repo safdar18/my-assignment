@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(108, 131, 130);
+    /* margin: 0px; */
+
+}
+form{
+    width: 50%;
+    margin: auto;
+    /* padding: 0px; */
+    justify-content: center;
+}
+input{
+    margin-bottom: 10px;
+}
+.button{
+    width: 55px;
+    height: 25px;
+    background: #ddd1d1;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+}
